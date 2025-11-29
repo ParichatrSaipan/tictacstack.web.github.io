@@ -20,30 +20,6 @@ A promotional website and game application that reimagines Tic Tac Toe with a st
 - Responsive design with Bootstrap 5
 - Interactive UI with smooth animations
 
-## Technologies
+## Slide Presentation
 
-HTML5 • CSS3 • JavaScript • Bootstrap 5.0 • Swiper.js
-
-## Quick Start
-
-```bash
-# Clone the repository
-git clone https://github.com/parichatrsaipan/tictacstack.web.github.io.git
-
-# Navigate to directory
-cd tictacstack.web.github.io
-
-# Run local server (Python)
-python -m http.server 8000
-
-# Open http://localhost:8000
-```
-
-## Team Members
-
-- **[Wawa](wawa.html)** • **[Saipan](saipan.html)** • **[Cream](cream.html)** • **[Earn](earn.html)** • **[Papa](papa.html)**
-
-## Deployment
-
-This project is deployed using **GitHub Pages**. Any changes pushed to the main branch will automatically update the live site at:
-**[https://parichatrsaipan.github.io/tictacstack.web.github.io/](https://parichatrsaipan.github.io/tictacstack.web.github.io/)**
+[View Presentation](Tic%20Tac%20Stack.pdf)
